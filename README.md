@@ -1,6 +1,6 @@
 # Aplicativos Híbridos com Flutter !
 
-Desenvolvendo apps para as plataformas Andorid e IOS com Dart e Flutter pelo VS Code
+Desenvolvendo apps para as plataformas Android e IOS com Dart e Flutter pelo VS Code.
 
 ---
 
